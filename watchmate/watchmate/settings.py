@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'drf-project',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'Root05sql',
         'HOST': 'localhost',
         'PORT': '3306',
     }
